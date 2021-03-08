@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodeCoverageExample/bin/Debug/netstandard2.0
+/**/.vs
+/**/obj
+/**/bin
+/**/*.opencover.xml
+/UnitTestCoverageReport
